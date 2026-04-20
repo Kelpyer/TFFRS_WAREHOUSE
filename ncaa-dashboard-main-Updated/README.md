@@ -1,11 +1,12 @@
 
-This is an interactive web dashboard for scraping and analyzing NCAA athlete race results from [TFRRS.org](https://www.tfrrs.org/).
+This is an interactive web dashboard for scraping and analyzing NCAA athlete results from [TFRRS.org](https://www.tfrrs.org/).
 
 
 ## Features
-- Scrape race results from any NCAA athlete profile
+- Scrape meet results from any NCAA athlete profile
+- Scrape meet results from any NCAA Team
 - Visualize **time progression** for selected events
-- Analyze **placement distribution** across all races
+- Analyze **placement distribution** across all events
 - Everything runs **locally on your computer**
 
 ## Tech Stack
@@ -33,17 +34,4 @@ streamlit run dashboard.py
 
 Step 4: Use the App
 
-
-## Example Time Progression Graph
-![image](https://github.com/user-attachments/assets/93a61187-9bb1-41cd-af35-aa54f082653c)
-
-
-## Example Placement Distribution Graph
-![image](https://github.com/user-attachments/assets/fa5867a4-1db9-4537-bbb7-a776021f2045)
-
-
-
-Built by Ricky Circelli as a personal project.
-
-
-
+Developed and extended by Kenny Gulloso as a personal project.
