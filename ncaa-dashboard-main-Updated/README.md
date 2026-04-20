@@ -2,14 +2,14 @@
 This is an interactive web dashboard for scraping and analyzing NCAA athlete results from [TFRRS.org](https://www.tfrrs.org/).
 
 
-## Features
+## What it does
 - Scrape meet results from any NCAA athlete profile
 - Scrape meet results from any NCAA Team
 - Visualize **time progression** for selected events
 - Analyze **placement distribution** across all events
 - Everything runs **locally on your computer**
 
-## Tech Stack
+## What is used
 - Python
 - Streamlit (Dashboard)
 - Selenium & BeautifulSoup (Web Scraping)
